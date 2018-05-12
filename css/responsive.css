@@ -192,7 +192,7 @@
     width: 290px;
   }
   article .home-selector .content-section ul li {
-    height: 501px;
+    height: 450px;
   }
   article .home-selector .content-section ul li .product {
     border: none;
@@ -203,9 +203,6 @@
   article .home-selector .content-section ul li .product .mobile-discription {
     display: block;
     padding-bottom: 16px;
-  }
-  article .home-selector .content-section ul li .product .btn-green {
-    display: none;
   }
   article .home-selector .content-section ul li .product .btn-more-info {
     display: block;
