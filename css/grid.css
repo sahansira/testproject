@@ -1,0 +1,22 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.custom-col-sm-2 {
+  width: 50%;
+}
+@media screen and (max-width: 890px) {
+  .custom-col-sm-2 {
+    width: 100%;
+  }
+}
+.custom-col-sm-3 {
+  width: 33.3333%;
+}
+@media screen and (max-width: 890px) {
+  .custom-col-sm-3 {
+    width: 100%;
+  }
+}
